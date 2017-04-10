@@ -1,2 +1,4 @@
-# Andela-Assessment1
-This Repository is to enable Andela track my work during the bootcamp
+# javascript-demo-project
+Basic JavaScript project for demonstration of programming concepts.
+
+Run `npm install` to get started
