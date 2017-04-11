@@ -1,9 +1,6 @@
 'use strict'
 
-var exports = module.exports = {};
-
-
-exports.getPrimes = function(num){
+var getPrimes = function(num){
   
   let primeList = [];
   
@@ -34,3 +31,4 @@ function test_prime(num){
   }
 }
 }
+module.exports = getPrimes;
